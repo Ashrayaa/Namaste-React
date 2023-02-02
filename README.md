@@ -1,1 +1,3 @@
-# Namaste-React
+# Namaste-React Live Course
+
+
